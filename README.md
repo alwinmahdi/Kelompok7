@@ -1,6 +1,6 @@
 # Kelompok7
 Project Website Print Online **Easy Print**
-<hr>
+
 Kelas : LA06
 
 - Alwyn Hadiyanto Mahdi 2001602234
