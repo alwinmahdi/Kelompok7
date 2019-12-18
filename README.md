@@ -1,6 +1,6 @@
 # Kelompok7
-Project Website Print Online "Easy Print"
-
+Project Website Print Online **Easy Print**
+<hr>
 Kelas : LA06
 
 - Alwyn Hadiyanto Mahdi 2001602234
@@ -9,4 +9,4 @@ Kelas : LA06
 - M. Reynaldi Effendi 2101711135
 - Yuriza Astari Rizkyta 1901517945
 
-Kunjungi Owner kami untuk melihat requirement project.
+Kunjungi Owner kami untuk melihat requirement project. [GitHub Pages](https://pages.github.com/).
