@@ -9,4 +9,4 @@ Kelas : LA06
 - M. Reynaldi Effendi 2101711135
 - Yuriza Astari Rizkyta 1901517945
 
-Kunjungi Owner kami untuk melihat requirement project. [GitHub Pages](https://pages.github.com/).
+Kunjungi Owner kami untuk melihat requirement project. [GitHub Pages](https://github.com/grivaldo-mahesa/EasyPrint).
