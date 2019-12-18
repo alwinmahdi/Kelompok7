@@ -1,5 +1,5 @@
 # Kelompok7
-Easy Print
+Project Website Print Online "Easy Print"
 
 Kelas : LA06
 
@@ -9,4 +9,4 @@ Kelas : LA06
 - M. Reynaldi Effendi 2101711135
 - Yuriza Astari Rizkyta 1901517945
 
-Kunjungi Owner : 
+Kunjungi Owner kami untuk melihat requirement project.
